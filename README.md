@@ -8,4 +8,4 @@ During this project, I practiced the process of creating sprites with multiple e
 
 The project code could be further optimized, perhaps with separate .rpy files to define the friendship point mechanic and hold the code for the branching endings. Since the game is ultimately incredibly short and limited in scope, these changes aren't necessary. In the future, I can anticipate using separate files in order to keep the code clean and manageable. 
 
-![The only character in the game, Inase.](The_Gatekeeper-0.1.0-alpha-win_linux/game/images/inase default.png)
+![The only character in the game, Inase.](The_Gatekeeper-0.1.0-alpha-win_linux/game/images/inase_default.png)
